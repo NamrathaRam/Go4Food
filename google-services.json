@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96295232601",
+    "project_id": "customized-food-order-system",
+    "storage_bucket": "customized-food-order-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96295232601:android:9b5a147353331572b2bd48",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hQHAMtdzta5DLRc46JpRMpg0bN17Kxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
